@@ -1,16 +1,7 @@
-# semester_work
+#Every Commit Mapped to a Week
+###Every commit is made once week is finished
 
-A new Flutter project.
+##Latest App Preview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![assets/preview/drawer.png](https://github.com/umersagheer75/0075_CSA3_MAD_semester-work/blob/main/assets/preview/drawer.png)
+![assets/preview/home.png](https://github.com/umersagheer75/0075_CSA3_MAD_semester-work/blob/main/assets/preview/home.png
