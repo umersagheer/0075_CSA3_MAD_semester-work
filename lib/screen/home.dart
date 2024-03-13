@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:semester_work/components/bottom_navigation_bar.dart';
+// import 'package:semester_work/components/bottom_navigation_bar.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:semester_work/components/drawer.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});
@@ -15,8 +16,8 @@ class Home extends StatelessWidget {
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
       ),
-      // drawer: const DrawerMenu(),
-      bottomNavigationBar: const BottomNavigation(),
+      drawer: const DrawerMenu(),
+      // bottomNavigationBar: const BottomNavigation(),
       body: Expanded(
         child: (Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
