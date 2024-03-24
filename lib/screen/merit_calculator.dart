@@ -34,10 +34,10 @@ class _MeritCalculatorState extends State<MeritCalculator> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromRGBO(146, 33, 33, 1),
-        title: const Text("Merit Calculator"),
+        title: const Text("Merit Calculator",
+            style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
       ),
       drawer: const DrawerMenu(),
-      // bottomNavigationBar: const BottomNavigation(),
       body: Padding(
         padding: const EdgeInsets.all(25.0),
         child: Column(

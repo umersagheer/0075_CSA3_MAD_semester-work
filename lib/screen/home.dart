@@ -11,10 +11,8 @@ class Home extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromRGBO(146, 33, 33, 1),
-        title: const Text(
-          "GCU Home",
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
+        title: const Text("GCU Home",
+            style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
       ),
       drawer: const DrawerMenu(),
       // bottomNavigationBar: const BottomNavigation(),

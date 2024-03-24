@@ -4,6 +4,4 @@
 
 ## Latest App Preview
 
-![assets/preview/drawer.png](https://github.com/umersagheer75/0075_CSA3_MAD_semester-work/blob/main/assets/preview/drawer.png)
-![assets/preview/merit-screen.png](https://github.com/umersagheer75/0075_CSA3_MAD_semester-work/blob/main/assets/preview/merit-screen.png)
-![assets/preview/home.png](https://github.com/umersagheer75/0075_CSA3_MAD_semester-work/blob/main/assets/preview/home.png)
+[Video](https://github.com/umersagheer75/0075_CSA3_MAD_semester-work/blob/main/assets/preview/Semester_Work.wmv)
